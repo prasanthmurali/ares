@@ -1,0 +1,219 @@
+<!--DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" -->
+   <!-- Begin Block Tagged Note 1 - us-gaap:SignificantAccountingPoliciesTextBlock-->
+   <!-- xbrl,ns -->
+   <!-- xbrl,nx -->
+   <font style="display:none"></font>
+   <font style="font-family:times new roman" size="2"><b>
+   </b></font>
+   <font style="font-family:times new roman" size="2"><b></b></font>
+   <p style="margin-top:12px;margin-bottom:0px"><font style="font-family:times new roman" size="2"><b>1.&#160;&#160;&#160;&#160;Summary of Significant Accounting Policies </b></font></p>
+   <p style="margin-top:12px;margin-bottom:0px"><font style="font-family:times new roman" size="2"><b>Our Company </b></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">
+   Broadcom Corporation (including our subsidiaries, referred to collectively in this Report as &#8220;Broadcom,&#8221; &#8220;we,&#8221; &#8220;our&#8221; and &#8220;us&#8221;) is a global innovation leader in
+   semiconductor solutions for wired and wireless communications. Broadcom products seamlessly deliver voice, video, data and multimedia connectivity in the home, the office and the mobile environment. We provide the industry&#8217;s broadest portfolio
+   of state-of-the-art system-on-a-chip, or SoC, and software solutions. </font></p>
+   <p style="margin-top:12px;margin-bottom:0px"><font style="font-family:times new roman" size="2"><b>Basis of Presentation </b></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">
+   Our consolidated financial statements include the accounts of Broadcom and our subsidiaries. All significant intercompany accounts and transactions have been eliminated in consolidation. </font></p>
+   <p style="margin-top:12px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">In 2011 we early adopted the provisions of Financial Accounting Standards Board, or FASB, Accounting Standards Codification (ASC) Topic
+   350, <i>Testing Goodwill for Impairment</i>. In 2010 we adopted the provisions of FASB ASC Topic 605, <i>Multiple-Deliverable Revenue Arrangement</i>, and FASB ASC Topic 985,<i> Certain Revenue Arrangements That Include Software Elements</i>. The
+   adoption of these accounting standards did not have a material impact on our consolidated financial statements. </font></p>
+   <p style="margin-top:12px;margin-bottom:0px"><font style="font-family:times new roman" size="2"><b>Foreign Currency </b></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">The functional currency for most of our international operations is the U.S.&#160;dollar. Assets and liabilities denominated in foreign
+   currencies are translated using the exchange rates on the balance sheet dates. Revenues and expenses are translated using the average exchange rates prevailing during the year. Any translation adjustments resulting from this process are shown
+   separately as a component of accumulated other comprehensive income (loss) within shareholders&#8217; equity in the consolidated balance sheets. Foreign currency transaction gains and losses are reported in other income, net in the consolidated
+   statements of income. </font></p>
+   <p style="margin-top:12px;margin-bottom:0px"><font style="font-family:times new roman" size="2"><b>Use of Estimates </b></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">
+   The preparation of financial statements in accordance with United States generally accepted accounting principles, or GAAP, requires management to make estimates and assumptions that affect the reported
+   amounts of assets and liabilities at the dates of the financial statements and the reported amounts of total net revenue and expenses in the reporting periods. We regularly evaluate estimates and assumptions related to revenue recognition, rebates,
+   allowances for doubtful accounts, sales returns and allowances, warranty obligations, inventory valuation, stock-based compensation expense, goodwill and purchased intangible asset valuations, strategic investments, deferred income tax asset
+   valuation allowances, uncertain tax positions, tax contingencies, self-insurance, restructuring costs or reversals, litigation and other loss contingencies. These estimates and assumptions are based on current facts, historical experience and
+   various other factors that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities and the recording of revenue, costs and expenses that are
+   not readily apparent from other sources. The actual results we experience may differ materially and adversely from our estimates. To the extent there are material differences between the estimates and actual results, our future results of operations
+   will be affected. </font></p>
+   <p style="margin-top:12px;margin-bottom:0px"><font style="font-family:times new roman" size="2"><b>Revenue Recognition </b></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">
+   We derive revenue principally from sales of integrated circuit products, royalties and license fees for our intellectual property and software and related services. The timing of revenue recognition and
+   the amount of revenue actually recognized for each arrangement depends upon a variety of factors, including the specific terms of each arrangement and the nature of our deliverables and obligations. Determination of the appropriate amount of revenue
+   recognized involves judgments and estimates that we believe are reasonable, but actual results may differ from our estimates. We recognize product revenue when all of the following criteria are met: (i)&#160;persuasive evidence of an arrangement
+   exists, (ii)&#160;delivery has occurred, (iii)&#160;the price to the customer is fixed or determinable, and (iv)&#160;collection of the resulting receivable is reasonably assured. These criteria are usually met at the time of product shipment. However, we do not recognize revenue when any future
+   performance obligations remain. We record reductions of revenue for estimated product returns and pricing adjustments, such as competitive pricing programs and rebates, in the same period that the related revenue is recorded. The amount of these
+   reductions is based on historical sales returns, analysis of credit memo data, specific criteria included in rebate agreements, and other factors known at the time. We accrue 100% of potential rebates at the time of sale and do not apply a breakage
+   factor. We reverse the accrual for unclaimed rebate amounts as specific rebate programs contractually end and when we believe unclaimed rebates are no longer subject to payment and will not be paid. See Note 2 for a summary of our rebate activity.
+   </font></p>
+   <p style="margin-top:12px;margin-bottom:0px; margin-left:2%"><font style="font-family:times new roman" size="2"><i>Multiple Element Arrangements Excluding Software
+   </i></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">We occasionally enter into revenue arrangements that contain multiple deliverables. Judgment is required to properly
+   identify the accounting units of the multiple deliverable transactions and to determine the manner in which revenue should be allocated among the accounting units. Moreover, judgment is used in interpreting the commercial terms and determining when
+   all criteria of revenue recognition have been met for each deliverable in order for revenue recognition to occur in the appropriate accounting period. While changes in the allocation of the arrangement consideration between the units of accounting
+   will not affect the amount of total revenue recognized for a particular sales arrangement, any material changes in these allocations could impact the timing of revenue recognition, which could affect our results of operations. When we enter into an
+   arrangement that includes multiple elements, the allocation of value to each element is derived based on management&#8217;s best estimate of selling price when vendor specific evidence or third party evidence is unavailable. </font></p>
+   <p style="margin-top:12px;margin-bottom:0px; margin-left:2%"><font style="font-family:times new roman" size="2"><i>Distributor Revenue </i></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">A portion of our product sales is made through distributors under agreements allowing for pricing credits and/or rights of return. These
+   pricing credits and/or right of return provisions prevent us from being able to reasonably estimate the final price of the inventory to be sold and the amount of inventory that could be returned pursuant to these agreements. As a result, the fixed
+   and determinable revenue recognition criterion has not been met at the time we deliver products to our distributors. Accordingly, product revenue from sales made through these distributors is not recognized until the distributors ship the product to
+   their customers. </font></p>
+   <p style="margin-top:12px;margin-bottom:0px; margin-left:2%"><font style="font-family:times new roman" size="2"><i>Software, Royalties and Cancellation Fee Revenue
+   </i></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">Revenue from software licenses is recognized when all of the software revenue recognition criteria are met and, if
+   applicable, when vendor specific objective evidence, or VSOE, exists to allocate the total license fee to each element of multiple-element software arrangements, including post-contract customer support. Post-contract support is recognized ratably
+   over the support period. When a contract contains multiple elements wherein the only undelivered element is post-contract customer support and VSOE of the fair value of post-contract customer support does not exist, revenue from the entire
+   arrangement is recognized ratably over the support period. Software royalty revenue is recognized in arrears on a quarterly basis, based upon reports received from licensees during the period, unless collectability is not reasonably assured, in
+   which case revenue is recognized when payment is received from the licensee. Revenue from cancellation fees is recognized when cash is received from the customer. </font></p>
+   <p style="margin-top:12px;margin-bottom:0px; margin-left:2%"><font style="font-family:times new roman" size="2"><i>Licensing Revenue </i></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">We license or otherwise provide rights to use portions of our intellectual property, which includes certain patent rights essential to
+   and/or utilized in the manufacture and sale of certain wireless products. Licensees typically pay a license fee in one or more installments and ongoing royalties based on their sales of products incorporating or using our licensed intellectual
+   property. License fees are recognized over the estimated period of benefit to the licensee, typically five to ten years. We recognize licensing revenue on the sale of patents when all of the following criteria are met: (i)&#160;persuasive evidence
+   of an arrangement exist, (ii)&#160;delivery has occurred, (iii)&#160;the price to be paid by the purchaser is fixed or determinable and (iv)&#160;collection of the resulting accounts receivable is reasonably assured. These criteria are usually met
+   at the time of patent transfer. We recognize royalty revenues based on royalties reported by licensees and when other revenue recognition criteria are met, which is generally a quarter in arrears from the period earned. </font></p>
+   <p style="font-size:1px;margin-top:12px;margin-bottom:0px">&#160;</p>
+   <p style="margin-top:0px;margin-bottom:0px; margin-left:2%"><font style="font-family:times new roman" size="2"><i>Income from the Qualcomm Agreement </i></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">On April&#160;26, 2009 we entered into a four-year Settlement and Patent License and Non-Assert Agreement, or the Qualcomm Agreement, with
+   Qualcomm Incorporated, or Qualcomm. The Qualcomm Agreement is a multiple element arrangement which includes: (i)&#160;an exchange of intellectual property rights, including in certain circumstances, by a series of covenants not to assert claims of
+   patent infringement under future patents issued within one to four years of the execution date of the agreement, (ii)&#160;the assignment of certain existing patents by Broadcom to Qualcomm with Broadcom retaining a royalty-free license under these
+   patents, and (iii)&#160;the settlement of all outstanding litigation and claims between us and Qualcomm. The proceeds of the Qualcomm Agreement were allocated amongst the principal elements of the transaction. A gain of $65 million from the
+   settlement of litigation was immediately recognized as a reduction in settlement costs that approximates the value of awards determined by the United States District Court for the Central District of California. The remaining consideration was
+   predominantly associated with the transfer of current and future intellectual property rights and is being recognized within net revenue over the performance period of four years as a single unit of accounting. However this income will be limited to
+   the lesser of the cumulative straight-line amortization over the four year performance period or the cumulative cash proceeds received. </font></p>
+   <p style="margin-top:12px;margin-bottom:0px; margin-left:2%"><font style="font-family:times new roman" size="2"><i>Deferred Revenue and Income </i></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">We defer revenue and income when advance payments are received from customers before performance obligations have been completed and/or
+   services have been performed. Deferred revenue does not include amounts from products delivered to distributors that the distributors have not yet sold through to their end customers. </font></p>
+   <p style="margin-top:12px;margin-bottom:0px"><font style="font-family:times new roman" size="2"><b>Cost of Product Revenue </b></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">
+   Cost of product revenue comprises the cost of our semiconductor devices, which consists of the cost of purchasing finished silicon wafers manufactured by independent foundries, costs associated with our
+   purchase of assembly, test and quality assurance services and packaging materials for semiconductor products, as well as royalties paid to vendors for use of their technology. Also included in cost of product revenue is the amortization of purchased
+   technology, and manufacturing overhead, including costs of personnel and equipment associated with manufacturing support, product warranty costs, provisions for excess and obsolete inventories, and stock-based compensation expense for personnel
+   engaged in manufacturing support. </font></p>
+   <p style="margin-top:12px;margin-bottom:0px"><font style="font-family:times new roman" size="2"><b>Concentration of Credit Risk </b></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">We sell the majority of our products throughout North America, Asia and Europe. Sales to our recurring customers are generally made on
+   open account while sales to occasional customers are typically made on a prepaid or letter of credit basis. We perform periodic credit evaluations of our recurring customers and generally do not require collateral. An allowance for doubtful accounts
+   is maintained for potential credit losses, which losses historically have not been significant. </font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">We invest our cash in
+   U.S.&#160;Treasury instruments, in deposits and money market funds with major financial institutions and in commercial paper, asset-backed securities and corporate and agency bonds. We place our cash investments in instruments that meet high credit
+   quality standards, as specified in our investment policy guidelines. These guidelines also limit the amount of credit exposure to any one issue, issuer or type of instrument. It is generally our policy to invest in instruments that have a final
+   maturity of no longer than three years, with a portfolio weighted average maturity of no longer than 18&#160;months. </font></p>
+   <p style="margin-top:12px;margin-bottom:0px"><font style="font-family:times new roman" size="2"><b>Fair Value of Financial Instruments </b></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">Our financial instruments consist principally of cash and cash equivalents, short- and long-term marketable securities, accounts
+   receivable, accounts payable and long-term debt. The fair value of a financial instrument is the amount that would be received in an asset sale or paid to transfer a liability in an orderly transaction between unaffiliated market participants. The
+   fair value of our long-term debt is determined by using estimated market prices. Assets and liabilities measured at fair value are categorized based on whether or not the inputs are observable in the
+   market and the degree that the inputs are observable. The categorization of financial instruments within the valuation hierarchy is based upon the lowest level of input that is significant to the
+   fair value measurement. The hierarchy is prioritized into three levels (with Level 3 being the lowest) defined as follows: </font></p>
+   <p style="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><font style="font-family:times new roman" size="2">
+   <i>Level 1:&#160;&#160;&#160;&#160;</i>Inputs are based on quoted market prices for identical assets or liabilities in active markets at the measurement date. </font></p>
+   <p style="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><font style="font-family:times new roman" size="2"><i>Level 2:&#160;&#160;&#160;&#160;</i>Inputs include quoted prices for similar assets or liabilities in active markets
+   and/or quoted prices for identical or similar assets or liabilities in markets that are not active near the measurement date. </font></p>
+   <p style="margin-top:6px;margin-bottom:0px; margin-left:4%; text-indent:4%"><font style="font-family:times new roman" size="2">
+   <i>Level 3:&#160;&#160;&#160;&#160;</i>Inputs include management&#8217;s best estimate of what market participants would use in pricing the asset or liability at the measurement date. The inputs are
+   unobservable in the market and significant to the instrument&#8217;s valuation. </font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">The fair value of the majority of our cash
+   equivalents and marketable securities was determined based on &#8220;Level 1&#8221; inputs. The fair value of certain marketable securities and our long-term debt were determined based on &#8220;Level 2&#8221; inputs. The valuation techniques used to
+   measure the fair value of our &#8220;Level 2&#8221; instruments were valued based on quoted market prices or model driven valuations using significant inputs derived from or corroborated by observable market data. We do not have any marketable
+   securities in the &#8220;Level 3&#8221; category. We believe that the recorded values of all our other financial instruments approximate their current fair values because of their nature and respective relatively short maturity dates or durations.
+   </font></p>
+   <p style="margin-top:12px;margin-bottom:0px"><font style="font-family:times new roman" size="2"><b>Cash, Cash Equivalents and Marketable Securities </b></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">We consider all highly liquid investments that are readily convertible into cash and have a maturity of three months or less at the time
+   of purchase to be cash equivalents. The cost of these investments approximates their fair value. We maintain an investment portfolio of various security holdings, types and maturities. We define marketable securities as income yielding securities
+   that can be readily converted into cash. Marketable securities&#8217; short-term and long-term classifications are based on remaining maturities at each reporting period. Examples of marketable securities include U.S. Treasury and agency obligations,
+   commercial paper, asset-back securities and corporate bonds. We place our cash investments in instruments that meet various parameters, including credit quality standards as specified in our investment policy. We do not use derivative financial
+   instruments. </font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">We account for our investments in debt and equity instruments as available-for-sale. Management determines the
+   appropriate classification of such securities at the time of purchase and re-evaluates such classification as of each balance sheet date. Cash equivalents and marketable securities are reported at fair value with the related unrealized gains and
+   losses included in accumulated other comprehensive income (loss), a component of shareholders&#8217; equity, net of tax. We assess whether our investments with unrealized loss positions are other than temporarily impaired. Unrealized gains and losses
+   and declines in value judged to be other than temporary are determined based on the specific identification method and are reported in other income, net in the consolidated statements of income. </font></p>
+   <p style="margin-top:12px;margin-bottom:0px"><font style="font-family:times new roman" size="2"><b>Allowance for Doubtful Accounts </b></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">
+   We evaluate the collectibility of accounts receivable based on a combination of factors. In cases where we are aware of circumstances that may impair a specific customer&#8217;s ability to meet its
+   financial obligations subsequent to the original sale, we will record an allowance against amounts due, and thereby reduce the net recognized receivable to the amount we reasonably believe will be collected. For all other customers, we recognize
+   allowances for doubtful accounts based on the length of time the receivables are past due, industry and geographic concentrations, the current business environment and our historical experience. </font></p>
+   <p style="margin-top:12px;margin-bottom:0px"><font style="font-family:times new roman" size="2"><b>Inventory </b></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">
+   Inventory consists of work in process and finished goods and is stated at the lower of cost (first-in, first-out) or market. We write down the carrying value of our inventory to net realizable value for
+   estimated obsolescence or unmarketable inventory in an amount equal to the difference between the cost of inventory and its estimated realizable value based upon assumptions about future demand and market conditions, among other factors. Shipping
+   and handling costs are classified as a component of cost of product revenue in the consolidated statements of income. Inventory acquired through business combinations is recorded at its acquisition date fair value which is the net realizable value
+   less a normal profit margin depending on the stage of inventory completion. </font></p>
+   <p style="font-size:1px;margin-top:12px;margin-bottom:0px">&#160;</p>
+   <p style="margin-top:0px;margin-bottom:0px"><font style="font-family:times new roman" size="2"><b>Property and Equipment </b></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">Property and equipment are carried at cost. Depreciation and amortization are provided using the straight-line method over the
+   assets&#8217; estimated remaining useful lives, ranging from one to ten years. Depreciation and amortization of leasehold improvements are computed using the shorter of the remaining lease term or ten years. </font></p>
+   <p style="margin-top:12px;margin-bottom:0px"><font style="font-family:times new roman" size="2"><b>Goodwill and Other Long-Lived Assets </b></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">Goodwill is recorded as the difference, if any, between the aggregate consideration paid for an acquisition and the fair value of the
+   acquired net tangible and intangible assets. Other long-lived assets primarily represent purchased intangible assets including developed technology, customer relationships and in-process research and development, or IPR&#038;D. We currently amortize
+   our intangible assets with definitive lives over periods ranging from one to fifteen years using a method that reflects the pattern in which the economic benefits of the intangible asset are consumed or otherwise used or, if that pattern cannot be
+   reliably determined, using a straight-line amortization method. We capitalize IPR&#038;D projects acquired as part of a business combination. On completion of each project, IPR&#038;D assets are reclassified to developed technology and amortized over
+   their estimated useful lives. </font></p>
+   <p style="margin-top:12px;margin-bottom:0px"><font style="font-family:times new roman" size="2"><b>Impairment of Goodwill and Other Long-Lived Assets </b></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">We evaluate goodwill on an annual basis in the fourth quarter or more frequently if we believe indicators of impairment exist. In 2011 we
+   early adopted the new provisions issued by the FASB that intended to simplify goodwill impairment testing. The updated guidance permits us to first assess qualitative factors to determine whether it is more likely than not that the fair value of a
+   reporting unit is less than its carrying amount. If we conclude that it is more likely than not that the fair value of a reporting units is less than its carrying amount, we conduct a two-step goodwill impairment test. The first step of the
+   impairment test involves comparing the fair values of the applicable reporting units with their carrying values. We determine the fair values of our reporting units using the income valuation approach, as well as other generally accepted valuation
+   methodologies. If the carrying amount of a reporting unit exceeds the reporting unit&#8217;s fair value, we perform the second step of the goodwill impairment test. The second step of the goodwill impairment test involves comparing the implied fair
+   value of the affected reporting unit&#8217;s goodwill with the carrying value of that goodwill. The amount, by which the carrying value of the goodwill exceeds its implied fair value, if any, is recognized as an impairment loss. </font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">During development, IPR&#038;D is not subject to amortization and is tested for impairment annually or more frequently if events or changes
+   in circumstances indicate that the asset might be impaired. The impairment test consists of a comparison of the fair value to its carrying amount. If the carrying value exceeds its fair value, an impairment loss is recognized in an amount equal to
+   that excess. Once an IPR&#038;D project is complete, it becomes a definite lived intangible asset and is evaluated for impairment in accordance with our policy for long-lived assets. </font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">We test long-lived assets and purchased intangible assets (other than goodwill and IPR&#038;D in development) for impairment if we believe
+   indicators of impairment exist. We determine whether the carrying value of an asset or asset group is recoverable, based on comparisons to undiscounted expected future cash flows the asset are expected to generate. If an asset is not recoverable, we
+   record an impairment loss equal to the amount by which the carrying value of the asset exceeds its fair value. We primarily use the income valuation approach to determine the fair value of our long lived assets and purchased intangible assets.
+   </font></p>
+   <p style="margin-top:12px;margin-bottom:0px"><font style="font-family:times new roman" size="2"><b>Warranty </b></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">
+   Our products typically carry a one to three year warranty. We establish reserves for estimated product warranty costs at the time revenue is recognized based upon our historical warranty experience, and
+   additionally for any known product warranty issues. If actual costs differ from our initial estimates, we record the difference in the period they are identified. Actual claims are charged against the warranty reserve. See Note&#160;2 for a summary
+   of our warranty activity. </font></p>
+   <p style="margin-top:12px;margin-bottom:0px"><font style="font-family:times new roman" size="2"><b>Guarantees and Indemnifications </b></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">In some agreements to which we are a party, we have agreed to indemnify the other party for certain matters, including, but not limited to
+   product liability. We include intellectual property indemnification provisions in our standard terms and conditions of sale for our products and have also included such provisions in certain agreements with third parties. We have and will continue
+   to evaluate and provide reasonable assistance for these other parties. </font></p>
+   <p style="font-size:1px;margin-top:6px;margin-bottom:0px">&#160;</p>
+   <p style="margin-top:0px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">This may include
+   certain levels of financial support to minimize the impact of the litigation in which they are involved. To date, there have been no known events or circumstances that have resulted in any material costs related to these indemnification provisions
+   and no liabilities therefor have been recorded in the accompanying consolidated financial statements. However, the maximum potential amount of the future payments we could be required to make under these indemnification obligations could be
+   significant. </font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">We have obligations to indemnify certain of our present and former directors, officers and employees to the
+   maximum extent not prohibited by law. Under these obligations, Broadcom is required (subject to certain exceptions) to indemnify each such director, officer and employee against expenses, including attorneys&#8217; fees, judgments, fines and
+   settlements, paid by such individual. The potential amount of the future payments we could be required to make under these indemnification obligations could be significant. We maintain directors&#8217; and officers&#8217; insurance policies that may
+   generally limit our exposure and enable us to recover a portion of the amounts paid with respect to such obligations. </font></p>
+   <p style="margin-top:12px;margin-bottom:0px"><font style="font-family:times new roman" size="2"><b>Income Taxes </b></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">
+   We utilize the asset and liability method of accounting for income taxes, under which deferred taxes are determined based on the temporary differences between the financial statement and tax basis of
+   assets and liabilities using tax rates expected to be in effect during the years in which the basis differences reverse. A valuation allowance is recorded when it is more likely than not that some of the deferred tax assets will not be realized.
+   </font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">Income tax positions must meet a more-likely-than-not recognition threshold to be recognized. Income tax positions that
+   previously failed to meet the more-likely-than-not threshold are recognized in the first subsequent financial reporting period in which that threshold is met. Previously recognized tax positions that no longer meet the more-likely-than-not threshold
+   are derecognized in the first subsequent financial reporting period in which that threshold is no longer met. We recognize potential accrued interest and penalties related to unrecognized tax benefits within the consolidated statements of income as
+   income tax expense. </font></p>
+   <p style="margin-top:12px;margin-bottom:0px"><font style="font-family:times new roman" size="2"><b>Research and Development Expense </b></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">Research and development expenditures are expensed in the period incurred. </font></p>
+   <p style="margin-top:12px;margin-bottom:0px"><font style="font-family:times new roman" size="2"><b>Stock-Based Compensation </b></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">Broadcom has in effect stock incentive plans under which incentive stock options have been granted to employees and restricted stock units
+   and non-qualified stock options have been granted to employees and non-employee members of the Board of Directors. We also have an employee stock purchase plan for all eligible employees. We are required to estimate the fair value of share-based
+   awards on the date of grant. The value of the award is principally recognized as an expense ratably over the requisite service periods. The fair value of our restricted stock units is based on the closing market price of our Class&#160;A common
+   stock on the date of grant less our expected dividend yield. We have estimated the fair value of stock options and stock purchase rights as of the date of grant or assumption using the Black-Scholes option pricing model, which was developed for use
+   in estimating the value of traded options that have no vesting restrictions and that are freely transferable. The Black-Scholes model considers, among other factors, the expected life of the award, the expected volatility of our stock price and the
+   expected dividend yield. We evaluate the assumptions used to value stock options and stock purchase rights on a quarterly basis. The fair values generated by the Black-Scholes model may not be indicative of the actual fair values of our equity
+   awards, as it does not consider other factors important to those awards to employees, such as continued employment, periodic vesting requirements and limited transferability. </font></p>
+   <p style="margin-top:12px;margin-bottom:0px"><font style="font-family:times new roman" size="2"><b>Litigation and Settlement Costs </b></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">
+   Legal costs are expensed as incurred. We are involved in disputes, litigation and other legal actions in the ordinary course of business. We continually evaluate uncertainties associated with litigation
+   and record a charge equal to at least the minimum estimated liability for a loss contingency when both of the following conditions are met: (i)&#160;information available prior to issuance of the financial statements indicates that it is probable
+   that an asset had been impaired or a liability had been incurred at the date of the financial statements and (ii)&#160;the loss or range of loss can be reasonably estimated. This generally occurs when an agreement in principle has been reached by
+   both parties that include substantive terms, conditions and amounts. We account for settlement agreements as multiple element arrangements and allocate the consideration to the identifiable elements based on relative fair value. Generally the identifiable elements are the licensing of intellectual property for
+   future use and payments related to alleged prior infringement. </font></p>
+   <p style="margin-top:12px;margin-bottom:0px"><font style="font-family:times new roman" size="2"><b>Self-Insurance </b></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">
+   We are self-insured for certain healthcare benefits provided to our U.S.&#160;employees. The liability for the self-insured benefits is limited by the purchase of stop-loss insurance. The stop-loss
+   coverage provides payment for aggregate claims exceeding $0.3&#160;million per covered person for any given year. </font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">Accruals for
+   losses are made based on our claim experience and actuarial estimates based on historical data. Actual losses may differ from accrued amounts. Should actual losses exceed the amounts expected and if the recorded liabilities are insufficient, an
+   additional expense will be recorded. </font></p>
+   <p style="margin-top:12px;margin-bottom:0px"><font style="font-family:times new roman" size="2"><b>Accumulated Comprehensive Income (Loss) </b></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">Accumulated other comprehensive income (loss) includes foreign currency translation adjustments and unrealized gains or losses on
+   investments. This information is provided in our statements of shareholders&#8217; equity. Accumulated other comprehensive income (loss) on the consolidated balance sheets at December&#160;31, 2011 and 2010 represents accumulated translation
+   adjustments and unrecognized gains and losses on investments classified as available for sale. </font></p>
+   <p style="margin-top:12px;margin-bottom:0px"><font style="font-family:times new roman" size="2"><b>Net Income Per Share </b></font></p>
+   <p style="margin-top:6px;margin-bottom:0px; text-indent:4%"><font style="font-family:times new roman" size="2">
+   Net income per share (basic) is calculated by dividing net income by the weighted average number of common shares outstanding during the year. Net income per share (diluted) is calculated by adjusting
+   outstanding shares, assuming any dilutive effects of options and restricted stock units calculated using the treasury stock method. Under the treasury stock method, an increase in the fair market value of our Class&#160;A common stock results in a
+   greater dilutive effect from outstanding options, stock purchase rights and restricted stock units. Additionally, the exercise of employee stock options and stock purchase rights and the vesting of restricted stock units results in a further
+   dilutive effect on net income per share. </font></p>

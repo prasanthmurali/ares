@@ -18,12 +18,24 @@ data = connector.postgres_to_dataframe()
 
 data['index'] = data.index
 
+'''
+f = open('before.txt','w')
+f.write(data['value'][0])
+f.close()
+'''
 
 ## Preprocessing Steps
 data['value'] = data['value'].apply(lambda x: cleaner.replace_null_with_empty_string(x))
 data['readable_text'] = data['value'].apply(lambda x: cleaner.get_readable_text(x))
 data['processed_value'] = data['value'].apply(lambda x: cleaner.clean_html_and_extract_text(x))
+data['readable_text'] = data['readable_text'].apply(lambda x: cleaner.lemmatize(x))
+data['readable_text'] = data['readable_text'].apply(lambda x: cleaner.snow_ball_stem(x))
 
+print('processing_done')
+for i in range(0,20):
+	f = open('/Users/prasanth/Desktop/sample/new/'+'text_new_'+str(i)+'.txt','w')
+	f.write(str(data['readable_text'][i]))
+	f.close()
 ## Adding a column to count the number of words
 #data['word_count'] = data['readable_text'].apply(lambda x: utils.count_words(x))
 
@@ -34,6 +46,18 @@ print("Collecting text statistics...")
 readability_calc_type = cfg.get('scores','type')
 text_simplicity.get_readability_scores(data, readability_calc_type)
 
+'''
+f = open('after.txt','w')
+f.write(data['readable_text'][0])
+f.close()
+'''
+
+f = open('/Users/prasanth/Desktop/sample/new/'+'gf.txt','w')
+f.write(str(data["gunning_fog"][0:20]))
+f.close()
+
+
+'''
 print("Beginning to write data to postgres")
 connector.updated_input_dataframe_to_postgres(data)
 
@@ -57,3 +81,4 @@ utils.output_to_csv(vector_type, output, document_ids, checkpoint2_name)
 
 ## writeback to postgres
 connector.csv_to_postgres(checkpoint2_name)
+'''

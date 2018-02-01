@@ -4,14 +4,16 @@ from bs4 import BeautifulSoup
 import subprocess
 import threading
 import os
+import nltk
+from nltk.stem.snowball import SnowballStemmer
 
 #from readcalc import readcalc
 #from textstat import textstat
 from readability import Readability
 
-__author__ = "Sreejith Sreekumar"
-__email__ = "sreekumar.s@husky.neu.edu"
-__version__ = "0.0.1"
+__author__ = "Sreejith Sreekumar","Prasanth Murali"
+__email__ = "sreekumar.s@husky.neu.edu","murali.pr@husky.neu.edu"
+__version__ = "0.0.2"
 
 
 null = 0
@@ -20,6 +22,13 @@ empty = 0
 
 foo = []
 
+def lemmatize(passage):
+	lemma = nltk.wordnet.WordNetLemmatizer()
+	return " ".join(str(x) for x in ([lemma.lemmatize(word) for word in passage.split(" ")]))
+
+def snow_ball_stem(passage):
+	stemmer = SnowballStemmer("english")
+	return " ".join(str(x) for x in ([stemmer.stem(word) for word in passage.split(" ")]))
 
 
 def replace_null_with_empty_string(html):
@@ -148,7 +157,7 @@ def clean_html_and_extract_text(raw_html):
 
     ## remove roman numberals from string which
     ## are not in brackets
-    toremove = [' ii ',' iii ', ' iv ', ' v ', ' vi ', ' vii ', ' viii ', ' ix ', ' x ']
+    toremove = [' ii ',' iii ', ' iv ', ' v ', ' vi ', ' vii ', ' viii ', ' ix ', ' x ','!','@','#','$','%','^','&','*','$.']
     text_array = cleantext.split("\s+")
     cleantext = [word.strip() for word in text_array if word not in toremove]
     cleantext = " ".join(cleantext)
